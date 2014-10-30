@@ -1,0 +1,1 @@
+c:\users\cse\documents\visual studio 2013\Projects\voting system\voting system\bin\Debug\voting system.exe.config
